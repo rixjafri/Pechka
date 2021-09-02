@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17126"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-Medium.ttf">
+            <string>Poppins-Medium</string>
+        </array>
+        <array key="Poppins-Regular.ttf">
+            <string>Poppins-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="140" id="KGk-i7-Jjw" customClass="profileCell" customModule="Pechka" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="140"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="140"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Pachka" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="p0f-wF-EfQ">
+                        <rect key="frame" x="110" y="40" width="201" height="38"/>
+                        <fontDescription key="fontDescription" name="Poppins-Medium" family="Poppins" pointSize="16"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="05 May, 2021" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UrE-0r-aeP">
+                        <rect key="frame" x="110" y="78" width="201" height="17"/>
+                        <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="12"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="userIcon" translatesAutoresizingMaskIntoConstraints="NO" id="G4w-tq-MKK">
+                        <rect key="frame" x="20" y="30" width="80" height="80"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="80" id="PMl-Cz-nPw"/>
+                            <constraint firstAttribute="width" secondItem="G4w-tq-MKK" secondAttribute="height" multiplier="1:1" id="a97-ve-47h"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                <integer key="value" value="40"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="UrE-0r-aeP" firstAttribute="trailing" secondItem="p0f-wF-EfQ" secondAttribute="trailing" id="4nE-fz-8kb"/>
+                    <constraint firstItem="G4w-tq-MKK" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="20" id="9eO-fC-bxu"/>
+                    <constraint firstItem="UrE-0r-aeP" firstAttribute="leading" secondItem="p0f-wF-EfQ" secondAttribute="leading" id="Cfm-Sg-d48"/>
+                    <constraint firstAttribute="trailing" secondItem="p0f-wF-EfQ" secondAttribute="trailing" constant="9" id="F2f-KG-FWI"/>
+                    <constraint firstItem="G4w-tq-MKK" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="ZOi-eA-ksy"/>
+                    <constraint firstItem="UrE-0r-aeP" firstAttribute="top" secondItem="p0f-wF-EfQ" secondAttribute="bottom" id="g3H-37-sbZ"/>
+                    <constraint firstItem="p0f-wF-EfQ" firstAttribute="top" secondItem="G4w-tq-MKK" secondAttribute="top" constant="10" id="hNr-Y0-kkI"/>
+                    <constraint firstItem="UrE-0r-aeP" firstAttribute="bottom" secondItem="G4w-tq-MKK" secondAttribute="bottom" constant="-15" id="s7w-IE-Tjt"/>
+                    <constraint firstItem="p0f-wF-EfQ" firstAttribute="leading" secondItem="G4w-tq-MKK" secondAttribute="trailing" constant="10" id="yKM-Hn-fUR"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <color key="backgroundColor" red="0.99607843159999998" green="0.34117650989999998" blue="0.13333332540000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+            <connections>
+                <outlet property="imgView" destination="G4w-tq-MKK" id="7gj-QA-Qac"/>
+                <outlet property="lblDate" destination="UrE-0r-aeP" id="cas-a5-edB"/>
+                <outlet property="lblName" destination="p0f-wF-EfQ" id="Wc6-ua-kjO"/>
+            </connections>
+            <point key="canvasLocation" x="137.68115942028987" y="88.392857142857139"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="userIcon" width="12" height="12"/>
+    </resources>
+</document>

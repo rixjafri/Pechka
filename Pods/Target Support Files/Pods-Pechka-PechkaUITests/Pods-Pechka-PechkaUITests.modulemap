@@ -1,0 +1,6 @@
+framework module Pods_Pechka_PechkaUITests {
+  umbrella header "Pods-Pechka-PechkaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

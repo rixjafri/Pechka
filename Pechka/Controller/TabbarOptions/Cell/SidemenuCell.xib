@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17126"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-Regular.ttf">
+            <string>Poppins-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="SidemenuCell" rowHeight="90" id="KGk-i7-Jjw" customClass="SidemenuCell" customModule="Pechka" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="326" height="90"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="326" height="90"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="3Oh-Vd-VWO">
+                        <rect key="frame" x="20" y="37.5" width="15" height="15"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="15" id="0AO-a4-AbT"/>
+                            <constraint firstAttribute="width" constant="15" id="GyS-ll-Hd9"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MhC-Ue-X5V">
+                        <rect key="frame" x="55" y="5" width="251" height="80"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="13"/>
+                        <color key="textColor" red="0.4392156862745098" green="0.4392156862745098" blue="0.4392156862745098" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="MhC-Ue-X5V" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="EJk-kG-Si7"/>
+                    <constraint firstAttribute="trailing" secondItem="MhC-Ue-X5V" secondAttribute="trailing" constant="20" id="LSl-YW-IOz"/>
+                    <constraint firstAttribute="bottom" secondItem="MhC-Ue-X5V" secondAttribute="bottom" constant="5" id="TA3-Jc-dXc"/>
+                    <constraint firstItem="3Oh-Vd-VWO" firstAttribute="centerY" secondItem="MhC-Ue-X5V" secondAttribute="centerY" id="Wky-Ci-Nbb"/>
+                    <constraint firstItem="3Oh-Vd-VWO" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="20" id="h5l-lu-fIz"/>
+                    <constraint firstItem="MhC-Ue-X5V" firstAttribute="leading" secondItem="3Oh-Vd-VWO" secondAttribute="trailing" constant="20" id="ugT-VB-i7V"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="imgview" destination="3Oh-Vd-VWO" id="Dhe-xi-mkc"/>
+                <outlet property="lbl" destination="MhC-Ue-X5V" id="wbe-6T-rzJ"/>
+            </connections>
+            <point key="canvasLocation" x="28" y="67.5"/>
+        </tableViewCell>
+    </objects>
+</document>

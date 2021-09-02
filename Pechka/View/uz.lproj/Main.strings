@@ -1,0 +1,1122 @@
+
+/* Class = "UILabel"; text = "$34.5"; ObjectID = "0Iu-Os-PgQ"; */
+"0Iu-Os-PgQ.text" = "$34.5";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0Pa-8U-U6K"; */
+"0Pa-8U-U6K.text" = "Label";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "0f8-wb-Kjx"; */
+"0f8-wb-Kjx.text" = "Parol";
+
+/* Class = "UILabel"; text = "Shaina Shen"; ObjectID = "0gA-m9-s0x"; */
+"0gA-m9-s0x.text" = "Shaina Shen";
+
+/* Class = "UIButton"; normalTitle = "Pending Listing"; ObjectID = "0oO-fi-r4F"; */
+"0oO-fi-r4F.normalTitle" = "Ro'yxat kutilmoqda";
+
+/* Class = "UILabel"; text = "Coffee and Tea Buy 3 Get 1"; ObjectID = "0pA-fa-gXr"; */
+"0pA-fa-gXr.text" = "Qahva va choy sotib oling 3 oling 1";
+
+/* Class = "UITextField"; placeholder = "Type a message..."; ObjectID = "1EK-iD-VXb"; */
+"1EK-iD-VXb.placeholder" = "Xabar yozing ...";
+
+/* Class = "UILabel"; text = "days"; ObjectID = "1LP-Ts-Ikv"; */
+"1LP-Ts-Ikv.text" = "kunlar";
+
+/* Class = "UILabel"; text = "E-mail"; ObjectID = "1Mz-w6-ozC"; */
+"1Mz-w6-ozC.text" = "Elektron pochta";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "1O4-Fg-fG0"; */
+"1O4-Fg-fG0.text" = "Manzil";
+
+/* Class = "UILabel"; text = "( For free item please set price to zero)"; ObjectID = "1Ra-Te-npi"; */
+"1Ra-Te-npi.text" = "(Bepul mahsulot uchun narxni nolga qo'ying)";
+
+/* Class = "UITextView"; text = "Lorem ipsum"; ObjectID = "1fG-Nx-36p"; */
+"1fG-Nx-36p.text" = "Lorem ipsum";
+
+/* Class = "UITextField"; placeholder = "Adress"; ObjectID = "1kg-lh-GNK"; */
+"1kg-lh-GNK.placeholder" = "Manzil";
+
+/* Class = "UIButton"; normalTitle = "See more"; ObjectID = "1rA-lR-hmK"; */
+"1rA-lR-hmK.normalTitle" = "Ko'proq ko'rish";
+
+/* Class = "UIButton"; normalTitle = "Do you agree with this privacy policy ?"; ObjectID = "2HX-uS-gQ4"; */
+"2HX-uS-gQ4.normalTitle" = "Siz ushbu maxfiylik siyosatiga qo'shilasizmi?";
+
+/* Class = "UILabel"; text = "3hr ago"; ObjectID = "2qr-LG-Q59"; */
+"2qr-LG-Q59.text" = "3 soat oldin";
+
+/* Class = "UIButton"; normalTitle = "Area range"; ObjectID = "30V-NL-6an"; */
+"30V-NL-6an.normalTitle" = "Maydon diapazoni";
+
+/* Class = "UIButton"; normalTitle = "Report this item"; ObjectID = "39N-JW-bYR"; */
+"39N-JW-bYR.normalTitle" = "Ushbu element haqida xabar bering";
+
+/* Class = "UILabel"; text = "Disabled Listing"; ObjectID = "3Pf-fY-Kl9"; */
+"3Pf-fY-Kl9.text" = "Ro'yxat o'chirilgan";
+
+/* Class = "UIButton"; normalTitle = "clear now"; ObjectID = "3ck-4O-ff1"; */
+"3ck-4O-ff1.normalTitle" = "hozir tozalang";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "3ix-Gw-QR9"; */
+"3ix-Gw-QR9.normalTitle" = "Tizimga kirish";
+
+/* Class = "UITextView"; text = "Add a message"; ObjectID = "3tf-Ne-znD"; */
+"3tf-Ne-znD.text" = "Xabar qo'shing";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "40v-Ze-d4C"; */
+"40v-Ze-d4C.normalTitle" = "Saqlash";
+
+/* Class = "UILabel"; text = "OFFER RECEIVED"; ObjectID = "4Ob-yu-Twf"; */
+"4Ob-yu-Twf.text" = "TAKLIF QABUL QILINDI";
+
+/* Class = "UITextView"; text = "Listing Title"; ObjectID = "4Qw-0l-tCP"; */
+"4Qw-0l-tCP.text" = "Ro'yxat nomi";
+
+/* Class = "UILabel"; text = "Paid Ad"; ObjectID = "4Ss-L9-1cA"; */
+"4Ss-L9-1cA.text" = "Pulli reklama";
+
+/* Class = "UILabel"; text = "Do you really want to accept this price?"; ObjectID = "4T4-rj-FlI"; */
+"4T4-rj-FlI.text" = "Siz haqiqatan ham ushbu narxni qabul qilmoqchimisiz?";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "4dO-6M-8th"; */
+"4dO-6M-8th.normalTitle" = "Kuzatib boring";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "4eX-HB-ZO2"; */
+"4eX-HB-ZO2.text" = "ism";
+
+/* Class = "UILabel"; text = "Promote Your Item"; ObjectID = "59V-FW-maF"; */
+"59V-FW-maF.text" = "O'zingizning mahsulotingizni reklama qiling";
+
+/* Class = "UILabel"; text = "No Messages"; ObjectID = "5Jz-nS-RtD"; */
+"5Jz-nS-RtD.text" = "Xabar yo'q";
+
+/* Class = "UILabel"; text = "Delhi"; ObjectID = "5R0-QJ-uLE"; */
+"5R0-QJ-uLE.text" = "Dehli";
+
+/* Class = "UILabel"; text = "Verified:"; ObjectID = "6BZ-YM-x4b"; */
+"6BZ-YM-x4b.text" = "Tasdiqlangan:";
+
+/* Class = "UIButton"; normalTitle = "Name"; ObjectID = "6Cp-Tk-ySa"; */
+"6Cp-Tk-ySa.normalTitle" = "Ism";
+
+/* Class = "UIButton"; normalTitle = "Item Condition"; ObjectID = "6cf-wx-kNN"; */
+"6cf-wx-kNN.normalTitle" = "Buyumning holati";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "70G-CV-D13"; */
+"70G-CV-D13.text" = "Mobil telefon raqami";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "70Y-su-CAx"; */
+"70Y-su-CAx.text" = "Foydalanuvchi nomi";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "7Gg-Yf-E09"; */
+"7Gg-Yf-E09.normalTitle" = "Maxfiylik siyosati";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "7TO-F9-Tx8"; */
+"7TO-F9-Tx8.text" = "2";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "7Vv-7e-OO8"; */
+"7Vv-7e-OO8.normalTitle" = "YOQ";
+
+/* Class = "UITextField"; placeholder = "Type a message..."; ObjectID = "7Wh-Jc-V6Z"; */
+"7Wh-Jc-V6Z.placeholder" = "Xabar yozing ...";
+
+/* Class = "UILabel"; text = "What are you listing today ?"; ObjectID = "7cT-fd-53b"; */
+"7cT-fd-53b.text" = "Bugun nimalarni ro'yxatlaysiz?";
+
+/* Class = "UILabel"; text = "Delhi"; ObjectID = "7g4-nR-KDQ"; */
+"7g4-nR-KDQ.text" = "Dehli";
+
+/* Class = "UILabel"; text = "Choose a price range"; ObjectID = "7pt-ZP-fh9"; */
+"7pt-ZP-fh9.text" = "Narxlar oralig'ini tanlang";
+
+/* Class = "UILabel"; text = "Woman t- shirt"; ObjectID = "7tN-BX-pkL"; */
+"7tN-BX-pkL.text" = "Woman t- shirt";
+
+/* Class = "UILabel"; text = "Rejected Listing"; ObjectID = "80d-3S-9vx"; */
+"80d-3S-9vx.text" = "Rad etilgan ro'yxat";
+
+/* Class = "UIButton"; normalTitle = "Price Type"; ObjectID = "86x-Va-u0R"; */
+"86x-Va-u0R.normalTitle" = "Narx turi";
+
+/* Class = "UILabel"; text = "Confirm password"; ObjectID = "8Bl-8l-mGU"; */
+"8Bl-8l-mGU.text" = "Parolni tasdiqlang";
+
+/* Class = "UITextView"; text = "Lorem ipsum"; ObjectID = "8LT-kQ-pBR"; */
+"8LT-kQ-pBR.text" = "Lorem ipsum";
+
+/* Class = "UIButton"; normalTitle = "sort by"; ObjectID = "8NO-nR-zvG"; */
+"8NO-nR-zvG.normalTitle" = "saralash turi";
+
+/* Class = "UILabel"; text = "Latitude"; ObjectID = "8V8-tR-tPs"; */
+"8V8-tR-tPs.text" = "Kenglik";
+
+/* Class = "UIButton"; normalTitle = "Category"; ObjectID = "8VB-Sx-OXj"; */
+"8VB-Sx-OXj.normalTitle" = "Turkum";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "8Y2-4R-LdX"; */
+"8Y2-4R-LdX.normalTitle" = "YOQ";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "8bT-2g-jG5"; */
+"8bT-2g-jG5.normalTitle" = "Tahrirlash";
+
+/* Class = "UILabel"; text = "3hr ago"; ObjectID = "8fq-7o-VLe"; */
+"8fq-7o-VLe.text" = "3 soat oldin";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "8pe-YM-Ut3"; */
+"8pe-YM-Ut3.normalTitle" = "O'chirish";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "8rR-Ze-dop"; */
+"8rR-Ze-dop.normalTitle" = "Saqlash";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "9dk-ZP-Hai"; */
+"9dk-ZP-Hai.text" = "Boshlanish vaqti:";
+
+/* Class = "UILabel"; text = "Highlight Information"; ObjectID = "9g1-bZ-sD3"; */
+"9g1-bZ-sD3.text" = "Ma'lumotni ajratib ko'rsatish";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "9iG-p5-dVw"; */
+"9iG-p5-dVw.text" = "Foydalanuvchi nomi";
+
+/* Class = "UILabel"; text = "Enter old password"; ObjectID = "9vh-mQ-n77"; */
+"9vh-mQ-n77.text" = "Eski parolni kiriting";
+
+/* Class = "UIButton"; normalTitle = "Change password"; ObjectID = "A7u-QI-NUY"; */
+"A7u-QI-NUY.normalTitle" = "Parolni o'zgartirish";
+
+/* Class = "UIButton"; normalTitle = "Category"; ObjectID = "AMf-ND-4PI"; */
+"AMf-ND-4PI.normalTitle" = "Turkum";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "Ae0-ei-riU"; */
+"Ae0-ei-riU.normalTitle" = "Yuborish";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "Awb-Wq-ubw"; */
+"Awb-Wq-ubw.text" = "Foydalanuvchi nomi";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "BOb-WL-amX"; */
+"BOb-WL-amX.text" = "Facebook";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "BSK-t5-0QC"; */
+"BSK-t5-0QC.text" = "Elektron pochta";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "BfM-pz-Lim"; */
+"BfM-pz-Lim.text" = "name";
+
+/* Class = "UILabel"; text = "Item Location"; ObjectID = "Bir-O9-GY0"; */
+"Bir-O9-GY0.text" = "Mahsulot joylashuvi";
+
+/* Class = "UIButton"; normalTitle = "Pay with stripe"; ObjectID = "BlO-Bd-Gr3"; */
+"BlO-Bd-Gr3.normalTitle" = "Ip bilan to'lash";
+
+/* Class = "UILabel"; text = "$34.5"; ObjectID = "BtA-cd-faX"; */
+"BtA-cd-faX.text" = "$34.5";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "C5q-hg-Ta7"; */
+"C5q-hg-Ta7.text" = "Parol";
+
+/* Class = "UILabel"; text = "$34.5"; ObjectID = "CDL-kZ-lhw"; */
+"CDL-kZ-lhw.text" = "$34.5";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "CDj-r0-KwU"; */
+"CDj-r0-KwU.normalTitle" = "HA";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "CEW-jQ-35T"; */
+"CEW-jQ-35T.text" = "0.0";
+
+/* Class = "UILabel"; text = "$34.5"; ObjectID = "CTV-Uc-cdO"; */
+"CTV-Uc-cdO.text" = "$34.5";
+
+/* Class = "UILabel"; text = "Instagram"; ObjectID = "CTr-q1-5aW"; */
+"CTr-q1-5aW.text" = "Instagram";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "Caa-6Y-1be"; */
+"Caa-6Y-1be.text" = "ism";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "Cxd-5m-R4v"; */
+"Cxd-5m-R4v.normalTitle" = "Hammasini ko'rish";
+
+/* Class = "UILabel"; text = "Visit To Our Website"; ObjectID = "DQm-hy-bvM"; */
+"DQm-hy-bvM.text" = "Bizning veb-saytimizga tashrif buyuring";
+
+/* Class = "UILabel"; text = "Joined on \n"; ObjectID = "DSS-15-v5I"; */
+"DSS-15-v5I.text" = "\ N ga qo'shildi";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "Dvy-ci-mTe"; */
+"Dvy-ci-mTe.normalTitle" = "Ro'yxatdan o'tish";
+
+/* Class = "UILabel"; text = "Delhi"; ObjectID = "EEk-wx-7h0"; */
+"EEk-wx-7h0.text" = "Dehli";
+
+/* Class = "UILabel"; text = "PACHKA"; ObjectID = "EU0-6r-MI5"; */
+"EU0-6r-MI5.text" = "PACHKA";
+
+/* Class = "UIButton"; normalTitle = "Sub Category"; ObjectID = "Eob-KM-eIn"; */
+"Eob-KM-eIn.normalTitle" = "Sub toifasi";
+
+/* Class = "UILabel"; text = "1 week ago"; ObjectID = "EsI-iZ-YZ6"; */
+"EsI-iZ-YZ6.text" = "1 hafta oldin";
+
+/* Class = "UISearchBar"; placeholder = "Search keyboard: write buy or sell or the name the product"; ObjectID = "EwZ-Gj-3lK"; */
+"EwZ-Gj-3lK.placeholder" = "Qidiruv klaviatura: sotib olish yoki sotishni yozing yoki mahsulotga nom bering";
+
+/* Class = "UIButton"; normalTitle = "Item Condition"; ObjectID = "Eys-aS-308"; */
+"Eys-aS-308.normalTitle" = "Buyumning holati";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "F4Q-ie-bTH"; */
+"F4Q-ie-bTH.normalTitle" = "Tahrirlash";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "F56-Gf-RtZ"; */
+"F56-Gf-RtZ.text" = "Boshlanish vaqti:";
+
+/* Class = "UILabel"; text = "Woman t- shirt"; ObjectID = "FBx-SQ-AfX"; */
+"FBx-SQ-AfX.text" = "Woman t- shirt";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "FQ0-Kt-PEO"; */
+"FQ0-Kt-PEO.text" = "ism";
+
+/* Class = "UIButton"; normalTitle = "Language"; ObjectID = "FUz-rc-RGY"; */
+"FUz-rc-RGY.normalTitle" = "Til";
+
+/* Class = "UIButton"; normalTitle = "FORGOT PASSWORD"; ObjectID = "FXp-gy-E80"; */
+"FXp-gy-E80.normalTitle" = "PAROLNI UNUTDINGIZMI";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "FcH-0z-4e4"; */
+"FcH-0z-4e4.normalTitle" = "Hammasini ko'rish";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "G3E-1S-qPU"; */
+"G3E-1S-qPU.text" = "Label";
+
+/* Class = "UITextView"; text = "Lorem ipsum"; ObjectID = "GCN-gz-eFH"; */
+"GCN-gz-eFH.text" = "Lorem ipsum";
+
+/* Class = "UILabel"; text = "Following"; ObjectID = "GCr-qE-s5m"; */
+"GCr-qE-s5m.text" = "Keyingi";
+
+/* Class = "UIButton"; normalTitle = "Filter"; ObjectID = "GF1-Cv-iQm"; */
+"GF1-Cv-iQm.normalTitle" = "Filtr";
+
+/* Class = "UILabel"; text = "Youtube"; ObjectID = "GG3-GI-hqj"; */
+"GG3-GI-hqj.text" = "Youtube";
+
+/* Class = "UIButton"; normalTitle = "Type"; ObjectID = "GJB-1r-oRa"; */
+"GJB-1r-oRa.normalTitle" = "Turi";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "GSn-pQ-sUL"; */
+"GSn-pQ-sUL.normalTitle" = "Qo'llash";
+
+/* Class = "UILabel"; text = "Shaina Shen"; ObjectID = "GZ9-P1-CN4"; */
+"GZ9-P1-CN4.text" = "Shaina Shen";
+
+/* Class = "UIButton"; normalTitle = "Profile"; ObjectID = "Gdb-Qu-ZsU"; */
+"Gdb-Qu-ZsU.normalTitle" = "Profil";
+
+/* Class = "UILabel"; text = "$34.5"; ObjectID = "GeJ-bE-4TE"; */
+"GeJ-bE-4TE.text" = "$34.5";
+
+/* Class = "UILabel"; text = "Price Type"; ObjectID = "Gqa-rM-zVm"; */
+"Gqa-rM-zVm.text" = "Narx turi";
+
+/* Class = "UIButton"; normalTitle = "Custom camera"; ObjectID = "GsU-aP-mLv"; */
+"GsU-aP-mLv.normalTitle" = "Maxsus kamera";
+
+/* Class = "UIButton"; normalTitle = "SELECT YOUR REGION HERE"; ObjectID = "Gx2-Ct-NPm"; */
+"Gx2-Ct-NPm.normalTitle" = "O'z mintaqangizni bu erda tanlang";
+
+/* Class = "UITextField"; placeholder = "Min"; ObjectID = "H5F-cY-lmH"; */
+"H5F-cY-lmH.placeholder" = "Min";
+
+/* Class = "UILabel"; text = "Version 2.9"; ObjectID = "H6m-Dk-5eL"; */
+"H6m-Dk-5eL.text" = "Version 2.9";
+
+/* Class = "UIButton"; normalTitle = "Safety Tips"; ObjectID = "H74-q7-Phu"; */
+"H74-q7-Phu.normalTitle" = "Xavfsizlik bo'yicha ko'rsatmalar";
+
+/* Class = "UIButton"; normalTitle = "What is your interest?"; ObjectID = "HDr-H7-Lng"; */
+"HDr-H7-Lng.normalTitle" = "Sizning qiziqishingiz nima?";
+
+/* Class = "UILabel"; text = "Woman t- shirt"; ObjectID = "HXq-D5-Zhc"; */
+"HXq-D5-Zhc.text" = "Woman t- shirt";
+
+/* Class = "UIButton"; normalTitle = "Promote Item Entry"; ObjectID = "Hvi-DZ-ZBH"; */
+"Hvi-DZ-ZBH.normalTitle" = "Mahsulot yozuvini targ'ib qiling";
+
+/* Class = "UIButton"; normalTitle = "Notification"; ObjectID = "I9B-TW-8XQ"; */
+"I9B-TW-8XQ.normalTitle" = "Bildirishnoma";
+
+/* Class = "UIButton"; normalTitle = "Type"; ObjectID = "IF0-On-qNM"; */
+"IF0-On-qNM.normalTitle" = "Turi";
+
+/* Class = "UILabel"; text = "Sunglasses"; ObjectID = "IHb-a0-dLX"; */
+"IHb-a0-dLX.text" = "Quyosh ko'zoynaklari";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "IOW-9n-Lk2"; */
+"IOW-9n-Lk2.text" = "Manzil";
+
+/* Class = "UILabel"; text = "Delhi"; ObjectID = "ISN-nU-bHT"; */
+"ISN-nU-bHT.text" = "Dehli";
+
+/* Class = "UILabel"; text = "$34.5"; ObjectID = "IW3-m3-CZs"; */
+"IW3-m3-CZs.text" = "$34.5";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "Ia7-OF-Bft"; */
+"Ia7-OF-Bft.normalTitle" = "HA";
+
+/* Class = "UILabel"; text = "3hr ago"; ObjectID = "Ilg-0j-J7I"; */
+"Ilg-0j-J7I.text" = "3 soat oldin";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "Ir4-E5-3Q6"; */
+"Ir4-E5-3Q6.normalTitle" = "HA";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "JTv-wb-AAB"; */
+"JTv-wb-AAB.text" = "ism";
+
+/* Class = "UILabel"; text = "$34.00"; ObjectID = "Js4-c3-aIW"; */
+"Js4-c3-aIW.text" = "$34.00";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "Jtk-W6-uZs"; */
+"Jtk-W6-uZs.text" = "Boshlanish vaqti:";
+
+/* Class = "UITextView"; text = "Description"; ObjectID = "Jvp-go-Z0u"; */
+"Jvp-go-Z0u.text" = "Tavsif";
+
+/* Class = "UILabel"; text = "OFFER SENT"; ObjectID = "K12-i3-J3U"; */
+"K12-i3-J3U.text" = "Yuborilgan taklif";
+
+/* Class = "UILabel"; text = "4.5 mb"; ObjectID = "K3B-Ux-J3H"; */
+"K3B-Ux-J3H.text" = "4.5 mb";
+
+/* Class = "UIButton"; normalTitle = "Edit Profile"; ObjectID = "KDC-Fk-Yxt"; */
+"KDC-Fk-Yxt.normalTitle" = "Profilni tahrirlash";
+
+/* Class = "UILabel"; text = "Are you sure to deactivate this account?"; ObjectID = "KGm-aZ-dCp"; */
+"KGm-aZ-dCp.text" = "Ushbu hisobni o'chirishga ishonchingiz komilmi?";
+
+/* Class = "UIButton"; normalTitle = "Call"; ObjectID = "KOE-Wv-7fa"; */
+"KOE-Wv-7fa.normalTitle" = "Qo'ng'iroq qiling";
+
+/* Class = "UILabel"; text = "PACHKA"; ObjectID = "L4J-NP-XA0"; */
+"L4J-NP-XA0.text" = "PACHKA";
+
+/* Class = "UILabel"; text = "1 week ago"; ObjectID = "L7p-Bb-fnh"; */
+"L7p-Bb-fnh.text" = "1 hafta oldin";
+
+/* Class = "UILabel"; text = "$34.00"; ObjectID = "LF5-do-2sO"; */
+"LF5-do-2sO.text" = "$34.00";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "LRB-wx-wQ7"; */
+"LRB-wx-wQ7.text" = "Manzil";
+
+/* Class = "UIButton"; normalTitle = "Offer"; ObjectID = "LRM-MZ-NGb"; */
+"LRM-MZ-NGb.normalTitle" = "Taklif";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Lig-BG-TW3"; */
+"Lig-BG-TW3.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MAg-1l-sJj"; */
+"MAg-1l-sJj.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Favourites"; ObjectID = "MEU-12-kBw"; */
+"MEU-12-kBw.normalTitle" = "Sevimlilar";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "MYT-aJ-vxu"; */
+"MYT-aJ-vxu.normalTitle" = "Sozlamalar";
+
+/* Class = "UIButton"; normalTitle = "SIGNIN"; ObjectID = "McO-OK-lF4"; */
+"McO-OK-lF4.normalTitle" = "TIZIMGA KIRISH";
+
+/* Class = "UIButton"; normalTitle = "Pay with offline"; ObjectID = "Mug-KE-iTE"; */
+"Mug-KE-iTE.normalTitle" = "Oflayn rejimda to'lovni amalga oshiring";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "Mwl-3b-hWq"; */
+"Mwl-3b-hWq.text" = "Boshlanish vaqti:";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "N20-T7-lKg"; */
+"N20-T7-lKg.normalTitle" = "YOQ";
+
+/* Class = "UILabel"; text = "1 week ago"; ObjectID = "NBe-Cn-evj"; */
+"NBe-Cn-evj.text" = "1 hafta oldin";
+
+/* Class = "UITextField"; placeholder = "Please select start date"; ObjectID = "NQ3-X1-lZL"; */
+"NQ3-X1-lZL.placeholder" = "Iltimos, boshlanish sanasini tanlang";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "NRC-r0-ekP"; */
+"NRC-r0-ekP.text" = "Izdoshlar";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "NRT-Ee-s3S"; */
+"NRT-Ee-s3S.text" = "Boshlanish vaqti:";
+
+/* Class = "UITextField"; placeholder = "Max"; ObjectID = "NTK-ae-7zz"; */
+"NTK-ae-7zz.placeholder" = "Maks";
+
+/* Class = "UIButton"; normalTitle = "Followers User List"; ObjectID = "NTf-bh-XbC"; */
+"NTf-bh-XbC.normalTitle" = "Kuzatuvchilarning foydalanuvchi ro'yxati";
+
+/* Class = "UIButton"; normalTitle = "User History"; ObjectID = "NZO-CN-ZP5"; */
+"NZO-CN-ZP5.normalTitle" = "Foydalanuvchi tarixi";
+
+/* Class = "UIButton"; normalTitle = "App Info"; ObjectID = "NhH-2e-4Vw"; */
+"NhH-2e-4Vw.normalTitle" = "Ilova haqida ma'lumot";
+
+/* Class = "UILabel"; text = "Woman t- shirt"; ObjectID = "O8Y-op-JkY"; */
+"O8Y-op-JkY.text" = "Woman t- shirt";
+
+/* Class = "UILabel"; text = "Do you want to clear cache image?"; ObjectID = "OV6-j1-QvF"; */
+"OV6-j1-QvF.text" = "Kesh rasmini tozalashni xohlaysizmi?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ofa-nP-poO"; */
+"Ofa-nP-poO.text" = "Label";
+
+/* Class = "UILabel"; text = "All"; ObjectID = "OlD-gD-H2V"; */
+"OlD-gD-H2V.text" = "Hammasi";
+
+/* Class = "UIButton"; normalTitle = "For address automatically click here"; ObjectID = "Onm-f8-sz3"; */
+"Onm-f8-sz3.normalTitle" = "Manzil uchun avtomatik ravishda shu erni bosing";
+
+/* Class = "UIButton"; normalTitle = "Change password"; ObjectID = "PLT-Nc-pdn"; */
+"PLT-Nc-pdn.normalTitle" = "Parolni o'zgartirish";
+
+/* Class = "UILabel"; text = "(2)"; ObjectID = "Pcl-ht-D1F"; */
+"Pcl-ht-D1F.text" = "(2)";
+
+/* Class = "UILabel"; text = "FROM SELLERS"; ObjectID = "Pcy-Rr-Hb6"; */
+"Pcy-Rr-Hb6.text" = "Sotuvchilardan";
+
+/* Class = "UIButton"; normalTitle = "Following User List"; ObjectID = "Pgo-eL-M1U"; */
+"Pgo-eL-M1U.normalTitle" = "Foydalanuvchilar ro'yxati kuzatilmoqda";
+
+/* Class = "UIButton"; normalTitle = "RESET"; ObjectID = "PlS-T4-XDB"; */
+"PlS-T4-XDB.normalTitle" = "QAYTA O'RNATISH";
+
+/* Class = "UIButton"; normalTitle = "Map filter"; ObjectID = "Pm2-ya-hhB"; */
+"Pm2-ya-hhB.normalTitle" = "Xarita filtri";
+
+/* Class = "UILabel"; text = "Ads Start Date"; ObjectID = "Pub-AX-PPs"; */
+"Pub-AX-PPs.text" = "Reklama boshlanish sanasi";
+
+/* Class = "UIButton"; normalTitle = "Gallery"; ObjectID = "Q5I-SO-9i7"; */
+"Q5I-SO-9i7.normalTitle" = "Galereya";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "QCm-HK-IEb"; */
+"QCm-HK-IEb.text" = "Tavsif";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "QFa-fB-kTH"; */
+"QFa-fB-kTH.normalTitle" = "Hammasini ko'rish";
+
+/* Class = "UILabel"; text = "Delhi"; ObjectID = "QXF-8Q-BR1"; */
+"QXF-8Q-BR1.text" = "Dehli";
+
+/* Class = "UITextField"; placeholder = "Longitude"; ObjectID = "Qcm-3X-0dE"; */
+"Qcm-3X-0dE.placeholder" = "Uzunlik";
+
+/* Class = "UIButton"; normalTitle = "Register with phone"; ObjectID = "Qo9-5n-Zmb"; */
+"Qo9-5n-Zmb.normalTitle" = "Telefon orqali ro'yxatdan o'ting";
+
+/* Class = "UILabel"; text = "Description here"; ObjectID = "Qwf-ql-lq6"; */
+"Qwf-ql-lq6.text" = "Tavsif bu erda";
+
+/* Class = "UILabel"; text = "Google Plus"; ObjectID = "R9B-XP-bcM"; */
+"R9B-XP-bcM.text" = "Google Plus";
+
+/* Class = "UIButton"; normalTitle = "Meet-up"; ObjectID = "RPH-xc-QlO"; */
+"RPH-xc-QlO.normalTitle" = "Uchrashuv";
+
+/* Class = "UILabel"; text = "Meet up"; ObjectID = "RPy-hI-CHq"; */
+"RPy-hI-CHq.text" = "Uchrashuv";
+
+/* Class = "UIButton"; normalTitle = "Choose Ctaegory"; ObjectID = "RVF-Xw-hMt"; */
+"RVF-Xw-hMt.normalTitle" = "Toifani tanlang";
+
+/* Class = "UILabel"; text = "Are you sure to logout?"; ObjectID = "RY1-Wv-b0u"; */
+"RY1-Wv-b0u.text" = "Chiqishga ishonchingiz komilmi?";
+
+/* Class = "UILabel"; text = "Or"; ObjectID = "RZo-v6-FRB"; */
+"RZo-v6-FRB.text" = "Yoki";
+
+/* Class = "UIButton"; normalTitle = "Listing Entry"; ObjectID = "Rkx-SI-hQk"; */
+"Rkx-SI-hQk.normalTitle" = "Listing Entry";
+
+/* Class = "UIButton"; normalTitle = "Pay with offline"; ObjectID = "RrY-fl-Cfn"; */
+"RrY-fl-Cfn.normalTitle" = "Oflayn rejimda to'lovni amalga oshiring";
+
+/* Class = "UILabel"; text = "Promote your item and reach more buyers Let more people discover your item and display your item at the top of the lists."; ObjectID = "Rso-3n-KAS"; */
+"Rso-3n-KAS.text" = "Mahsulotingizni targ'ib qiling va ko'proq xaridorlarga murojaat qiling. Ko'p odamlar sizning narsalaringizni kashf qilishlariga va ro'yxatlarning yuqori qismida mahsulotingizni ko'rsatishiga imkon bering.";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "RyL-VV-Zib"; */
+"RyL-VV-Zib.normalTitle" = "Qidirmoq";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "Rzg-fz-Uot"; */
+"Rzg-fz-Uot.normalTitle" = "HA";
+
+/* Class = "UILabel"; text = "Delhi"; ObjectID = "S8m-zT-R9H"; */
+"S8m-zT-R9H.text" = "Dehli";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "SCY-ow-mLB"; */
+"SCY-ow-mLB.text" = "Mobil telefon raqami";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "SNj-7T-4Ft"; */
+"SNj-7T-4Ft.normalTitle" = "Parolni unutdingizmi?";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "SXm-K6-4Fl"; */
+"SXm-K6-4Fl.text" = "Boshlanish vaqti:";
+
+/* Class = "UIButton"; normalTitle = "Contact Us"; ObjectID = "SaW-GR-on1"; */
+"SaW-GR-on1.normalTitle" = "Biz bilan bog'lanish";
+
+/* Class = "UILabel"; text = "IS Shop ? ( if user can order more than one )"; ObjectID = "Sr8-dM-5N5"; */
+"Sr8-dM-5N5.text" = "Do‘konmi? (agar foydalanuvchi bir nechta buyurtma berishi mumkin bo'lsa)";
+
+/* Class = "UILabel"; text = "Woman t- shirt"; ObjectID = "Ssx-Rf-R5S"; */
+"Ssx-Rf-R5S.text" = "Woman t- shirt";
+
+/* Class = "UILabel"; text = "1 week ago"; ObjectID = "T24-zx-jmI"; */
+"T24-zx-jmI.text" = "1 hafta oldin";
+
+/* Class = "UILabel"; text = "Promote For 7 Days"; ObjectID = "T9L-DD-tc6"; */
+"T9L-DD-tc6.text" = "7 kun davomida reklama qiling";
+
+/* Class = "UILabel"; text = "1 week ago"; ObjectID = "TGz-hr-t5a"; */
+"TGz-hr-t5a.text" = "1 hafta oldin";
+
+/* Class = "UIButton"; normalTitle = "Land"; ObjectID = "TKH-N9-IOI"; */
+"TKH-N9-IOI.normalTitle" = "Er";
+
+/* Class = "UILabel"; text = "05 May, 2021"; ObjectID = "TcJ-kf-nhd"; */
+"TcJ-kf-nhd.text" = "05 May, 2021";
+
+/* Class = "UILabel"; text = "Verified"; ObjectID = "TlF-Ps-fpx"; */
+"TlF-Ps-fpx.text" = "Tasdiqlangan";
+
+/* Class = "UILabel"; text = "Twitter"; ObjectID = "Tmo-co-Rja"; */
+"Tmo-co-Rja.text" = "Twitter";
+
+/* Class = "UILabel"; text = "Verified"; ObjectID = "Tn6-br-N8W"; */
+"Tn6-br-N8W.text" = "Tasdiqlangan";
+
+/* Class = "UITextView"; text = "Highlight Information"; ObjectID = "Trl-ZU-fPZ"; */
+"Trl-ZU-fPZ.text" = "Ma'lumotni ajratib ko'rsatish ";
+
+/* Class = "UIButton"; normalTitle = "Chat"; ObjectID = "TuC-kO-sFZ"; */
+"TuC-kO-sFZ.normalTitle" = "Chat";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "U7Z-EX-uFi"; */
+"U7Z-EX-uFi.normalTitle" = "Yuborish";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UCr-7h-FWn"; */
+"UCr-7h-FWn.text" = "Label";
+
+/* Class = "UILabel"; text = "PACHKA"; ObjectID = "UbI-Nu-5v0"; */
+"UbI-Nu-5v0.text" = "PACHKA";
+
+/* Class = "UILabel"; text = "Woman t- shirt"; ObjectID = "VaN-CT-fLX"; */
+"VaN-CT-fLX.text" = "Woman t- shirt";
+
+/* Class = "UILabel"; text = "$34.00"; ObjectID = "WEY-iD-Rnk"; */
+"WEY-iD-Rnk.text" = "$34.00";
+
+/* Class = "UIButton"; normalTitle = "Category"; ObjectID = "WGk-E6-XKK"; */
+"WGk-E6-XKK.normalTitle" = "Turkum";
+
+/* Class = "UILabel"; text = "Promote For 7 Days"; ObjectID = "WYh-An-Pnh"; */
+"WYh-An-Pnh.text" = "7 kun davomida reklama qiling";
+
+/* Class = "UITabBarItem"; title = "Interest"; ObjectID = "Wrq-9V-2xl"; */
+"Wrq-9V-2xl.title" = "Qiziqish";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "Wsf-w8-uL1"; */
+"Wsf-w8-uL1.text" = "ism";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Wxu-6j-bBR"; */
+"Wxu-6j-bBR.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Location"; ObjectID = "WzU-85-ah3"; */
+"WzU-85-ah3.normalTitle" = "Manzil";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "XC3-z0-hPx"; */
+"XC3-z0-hPx.text" = "Mobil telefon raqami";
+
+/* Class = "UILabel"; text = "Meet the seller"; ObjectID = "Xbr-ZG-p0r"; */
+"Xbr-ZG-p0r.text" = "Sotuvchi bilan tanishing";
+
+/* Class = "UIButton"; normalTitle = "Products"; ObjectID = "Xg3-Tj-sJH"; */
+"Xg3-Tj-sJH.normalTitle" = "Mahsulotlar";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "XzU-IJ-ZMu"; */
+"XzU-IJ-ZMu.text" = "Tafsilotlar";
+
+/* Class = "UIButton"; normalTitle = "What is your interest?"; ObjectID = "Y1T-KM-FhJ"; */
+"Y1T-KM-FhJ.normalTitle" = "Sizning qiziqishingiz nima?";
+
+/* Class = "UIButton"; normalTitle = "Category"; ObjectID = "Y4J-tC-3K0"; */
+"Y4J-tC-3K0.normalTitle" = "Turkum";
+
+/* Class = "UILabel"; text = "Add a message"; ObjectID = "YBf-dI-xCJ"; */
+"YBf-dI-xCJ.text" = "Xabar qo'shing";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "YRX-Uz-A1f"; */
+"YRX-Uz-A1f.normalTitle" = "Ro'yxatdan o'tish";
+
+/* Class = "UIButton"; normalTitle = "App info"; ObjectID = "YuK-PW-xtJ"; */
+"YuK-PW-xtJ.normalTitle" = "Ilova haqida ma'lumot";
+
+/* Class = "UITextField"; placeholder = "Max"; ObjectID = "Yvb-nM-DRs"; */
+"Yvb-nM-DRs.placeholder" = "Maks";
+
+/* Class = "UILabel"; text = "How Many Days?"; ObjectID = "ZRT-XG-yh8"; */
+"ZRT-XG-yh8.text" = "Necha kun?";
+
+/* Class = "UILabel"; text = "Woman t- shirt"; ObjectID = "Zgu-qT-Izo"; */
+"Zgu-qT-Izo.text" = "Woman t- shirt";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "ZiQ-SQ-shg"; */
+"ZiQ-SQ-shg.normalTitle" = "Yuborish";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "Zn8-0f-6jv"; */
+"Zn8-0f-6jv.normalTitle" = "Hammasini ko'rish";
+
+/* Class = "UILabel"; text = "1 week ago"; ObjectID = "Zzi-QU-MeJ"; */
+"Zzi-QU-MeJ.text" = "1 hafta oldin";
+
+/* Class = "UITextField"; placeholder = "Min"; ObjectID = "aBV-Bd-khC"; */
+"aBV-Bd-khC.placeholder" = "Min";
+
+/* Class = "UILabel"; text = "$34.5"; ObjectID = "anb-bF-vpd"; */
+"anb-bF-vpd.text" = "$34.5";
+
+/* Class = "UIButton"; normalTitle = "View on map"; ObjectID = "anq-ww-SzU"; */
+"anq-ww-SzU.normalTitle" = "Xaritada ko'rish";
+
+/* Class = "UIButton"; normalTitle = "Item Condition"; ObjectID = "apt-MQ-VHl"; */
+"apt-MQ-VHl.normalTitle" = "Buyumning holati";
+
+/* Class = "UILabel"; text = "Are you sure to mark this item as sold out?"; ObjectID = "avg-bL-Dnb"; */
+"avg-bL-Dnb.text" = "Ushbu buyumni sotilgan deb belgilashga ishonchingiz komilmi?";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "bIx-P8-MNE"; */
+"bIx-P8-MNE.text" = "Elektron pochta";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "bdy-SD-XHM"; */
+"bdy-SD-XHM.text" = "Boshlanish vaqti:";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "beQ-oa-5eL"; */
+"beQ-oa-5eL.normalTitle" = "Qidirmoq";
+
+/* Class = "UILabel"; text = "1 week ago"; ObjectID = "cd6-Wm-WUd"; */
+"cd6-Wm-WUd.text" = "1 hafta oldin";
+
+/* Class = "UIButton"; normalTitle = "Favourites"; ObjectID = "chp-NM-3MX"; */
+"chp-NM-3MX.normalTitle" = "Sevimlilar";
+
+/* Class = "UIButton"; normalTitle = "Price Type"; ObjectID = "cjO-FH-QxD"; */
+"cjO-FH-QxD.normalTitle" = "Narx turi";
+
+/* Class = "UILabel"; text = "Woman t- shirt"; ObjectID = "cnA-0z-E8N"; */
+"cnA-0z-E8N.text" = "Woman t- shirt";
+
+/* Class = "UILabel"; text = "Do you want to report this add?"; ObjectID = "cof-aD-pJP"; */
+"cof-aD-pJP.text" = "Ushbu qo'shimcha haqida xabar qilmoqchimisiz?";
+
+/* Class = "UILabel"; text = "Woman t- shirt"; ObjectID = "d2E-b0-RmL"; */
+"d2E-b0-RmL.text" = "Woman t- shirt";
+
+/* Class = "UIButton"; normalTitle = "Blog Detail"; ObjectID = "dS6-0t-ofx"; */
+"dS6-0t-ofx.normalTitle" = "Blog haqida batafsil ma'lumot";
+
+/* Class = "UILabel"; text = "ALL"; ObjectID = "dZS-RW-tXH"; */
+"dZS-RW-tXH.text" = "HAMMA";
+
+/* Class = "UILabel"; text = "$34.00"; ObjectID = "e0j-xh-Qi7"; */
+"e0j-xh-Qi7.text" = "$34.00";
+
+/* Class = "UILabel"; text = "Pinterest"; ObjectID = "e6V-n5-tZH"; */
+"e6V-n5-tZH.text" = "Pinterest";
+
+/* Class = "UILabel"; text = "Notification Settings(On/Off)"; ObjectID = "eDq-Iw-nij"; */
+"eDq-Iw-nij.text" = "Bildirishnoma sozlamalari (On / Off)";
+
+/* Class = "UILabel"; text = "Delhi"; ObjectID = "eIO-1M-eB0"; */
+"eIO-1M-eB0.text" = "Dehli";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "eMR-kX-Y3S"; */
+"eMR-kX-Y3S.normalTitle" = "Sozlamalar";
+
+/* Class = "UILabel"; text = "$34.5"; ObjectID = "ei8-ut-dT0"; */
+"ei8-ut-dT0.text" = "$34.5";
+
+/* Class = "UITextField"; placeholder = "Latitude"; ObjectID = "emr-jd-j4b"; */
+"emr-jd-j4b.placeholder" = "Kenglik";
+
+/* Class = "UILabel"; text = "Create password"; ObjectID = "ey9-88-9Nl"; */
+"ey9-88-9Nl.text" = "Parol yarating";
+
+/* Class = "UILabel"; text = "About me"; ObjectID = "f3h-EE-EJ7"; */
+"f3h-EE-EJ7.text" = "Men haqimda";
+
+/* Class = "UIButton"; normalTitle = "Message"; ObjectID = "fGN-zf-hCb"; */
+"fGN-zf-hCb.normalTitle" = "Xabar";
+
+/* Class = "UIButton"; normalTitle = "Filter"; ObjectID = "fGe-7b-BBi"; */
+"fGe-7b-BBi.normalTitle" = "Filtr";
+
+/* Class = "UIButton"; normalTitle = "OFFLINE"; ObjectID = "fhp-FU-JqN"; */
+"fhp-FU-JqN.normalTitle" = "OFLAYN";
+
+/* Class = "UILabel"; text = "Longitude"; ObjectID = "fuL-SZ-6OA"; */
+"fuL-SZ-6OA.text" = "Uzunlik";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "fx7-of-23w"; */
+"fx7-of-23w.normalTitle" = "HA";
+
+/* Class = "UIButton"; normalTitle = "Share this image"; ObjectID = "g5u-gH-Cas"; */
+"g5u-gH-Cas.normalTitle" = "Ushbu rasmni baham ko'ring";
+
+/* Class = "UIButton"; normalTitle = "Please select city"; ObjectID = "gGB-8H-3Rr"; */
+"gGB-8H-3Rr.normalTitle" = "Iltimos, shaharni tanlang";
+
+/* Class = "UIButton"; normalTitle = "Photos"; ObjectID = "gGB-SW-xQU"; */
+"gGB-SW-xQU.normalTitle" = "Fotosuratlar";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "gPs-cq-rtg"; */
+"gPs-cq-rtg.text" = "Elektron pochta";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password"; ObjectID = "gRC-gt-jEe"; */
+"gRC-gt-jEe.normalTitle" = "Parolni unutdingizmi";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "hVw-n6-bl1"; */
+"hVw-n6-bl1.text" = "Telefon";
+
+/* Class = "UILabel"; text = "Amount Spend:"; ObjectID = "hWD-vO-Mpp"; */
+"hWD-vO-Mpp.text" = "Xarajat miqdori:";
+
+/* Class = "UIButton"; normalTitle = "Mark as sold"; ObjectID = "haA-1h-8qh"; */
+"haA-1h-8qh.normalTitle" = "Sotilgan deb belgilang";
+
+/* Class = "UINavigationItem"; title = "Auto Search"; ObjectID = "hcF-lv-cNe"; */
+"hcF-lv-cNe.title" = "Avtomatik qidirish";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iPH-qd-jyX"; */
+"iPH-qd-jyX.text" = "Label";
+
+/* Class = "UILabel"; text = "Safety Tips: Terms and Conditions"; ObjectID = "iZe-0X-XBq"; */
+"iZe-0X-XBq.text" = "Xavfsizlik bo'yicha ko'rsatmalar: Shartlar va shartlar";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "ifI-ZX-wvt"; */
+"ifI-ZX-wvt.title" = "Bosh sahifa";
+
+/* Class = "UIButton"; normalTitle = "Enter OTP"; ObjectID = "ijQ-NF-uhq"; */
+"ijQ-NF-uhq.normalTitle" = "OTP-ni kiriting";
+
+/* Class = "UILabel"; text = "Deactivate account"; ObjectID = "j91-qT-CF6"; */
+"j91-qT-CF6.text" = "Hisobni o'chirish";
+
+/* Class = "UILabel"; text = "Amount Spend:"; ObjectID = "jzC-ve-u6l"; */
+"jzC-ve-u6l.text" = "Xarajat miqdori:";
+
+/* Class = "UIButton"; normalTitle = "Deal Option"; ObjectID = "kIo-1p-pk3"; */
+"kIo-1p-pk3.normalTitle" = "Bitim opsiyasi";
+
+/* Class = "UITextField"; placeholder = "Brand"; ObjectID = "kaN-ct-G5n"; */
+"kaN-ct-G5n.placeholder" = "Tovar belgisi";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "ki2-WG-7gy"; */
+"ki2-WG-7gy.text" = "ism";
+
+/* Class = "UILabel"; text = "You've just received an email containing\nverification code on "; ObjectID = "krf-0X-Kvu"; */
+"krf-0X-Kvu.text" = "Sizga \ nverifikatsiya kodi yoqilgan elektron xabar yuborildi ";
+
+/* Class = "UIButton"; normalTitle = "Pay with razor"; ObjectID = "l8w-5R-B2w"; */
+"l8w-5R-B2w.normalTitle" = "Ustara bilan to'lash";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "lBe-fU-cYn"; */
+"lBe-fU-cYn.text" = "Kimga";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "lnL-57-Xad"; */
+"lnL-57-Xad.text" = "Manzil";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "lxK-bX-ulw"; */
+"lxK-bX-ulw.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Make Offer"; ObjectID = "m0m-1o-Na5"; */
+"m0m-1o-Na5.normalTitle" = "Taklif qiling";
+
+/* Class = "UITextView"; text = "Remarks"; ObjectID = "m4u-3r-ftT"; */
+"m4u-3r-ftT.text" = "Izohlar";
+
+/* Class = "UILabel"; text = "FROM BUYERS"; ObjectID = "m69-tN-DXC"; */
+"m69-tN-DXC.text" = "QARORLARDAN";
+
+/* Class = "UILabel"; text = "1 week ago"; ObjectID = "mEd-Jp-RwU"; */
+"mEd-Jp-RwU.text" = "1 hafta oldin";
+
+/* Class = "UILabel"; text = "All"; ObjectID = "mNW-O7-dEF"; */
+"mNW-O7-dEF.text" = "Hammasi";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "mNX-Hw-CMr"; */
+"mNX-Hw-CMr.text" = "$";
+
+/* Class = "UILabel"; text = "Choose a price range"; ObjectID = "mTP-4w-VCq"; */
+"mTP-4w-VCq.text" = "Narxlar oralig'ini tanlang";
+
+/* Class = "UILabel"; text = "Pending Listing"; ObjectID = "nBB-Qk-XSJ"; */
+"nBB-Qk-XSJ.text" = "Ro'yxat kutilmoqda";
+
+/* Class = "UIButton"; normalTitle = "Pay with paypal"; ObjectID = "nRl-wU-7yZ"; */
+"nRl-wU-7yZ.normalTitle" = "PayPal bilan to'lash";
+
+/* Class = "UILabel"; text = "You can make the offline payment with following options:"; ObjectID = "ns4-CH-K9A"; */
+"ns4-CH-K9A.text" = "Siz quyidagi variantlar bilan oflayn to'lovni amalga oshirishingiz mumkin:";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "o39-pd-9oW"; */
+"o39-pd-9oW.normalTitle" = "Hammasini ko'rish";
+
+/* Class = "UILabel"; text = "Woman t- shirt"; ObjectID = "oME-sf-0PL"; */
+"oME-sf-0PL.text" = "Woman t- shirt";
+
+/* Class = "UILabel"; text = "Loreum ipsum is a demo writing Lor\neum ipsum"; ObjectID = "oat-rG-v5r"; */
+"oat-rG-v5r.text" = "Loreum ipsum is a demo writing Lor\neum ipsum";
+
+/* Class = "UIButton"; normalTitle = "Chat"; ObjectID = "obI-dS-Qkj"; */
+"obI-dS-Qkj.normalTitle" = "Chat";
+
+/* Class = "UILabel"; text = "3hr ago"; ObjectID = "obk-mo-wry"; */
+"obk-mo-wry.text" = "3 soat oldin";
+
+/* Class = "UILabel"; text = "Loreum ipsum is a demo writing Lor\neum ipsum"; ObjectID = "ogq-UP-WXG"; */
+"ogq-UP-WXG.text" = "Loreum ipsum is a demo writing Lor\neum ipsum";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "p4e-QI-NN8"; */
+"p4e-QI-NN8.text" = "Shahar";
+
+/* Class = "UILabel"; text = "$34.5"; ObjectID = "pYV-f7-Poc"; */
+"pYV-f7-Poc.text" = "$34.5";
+
+/* Class = "UIButton"; normalTitle = "Paid AD Transaction"; ObjectID = "pcS-TO-HSF"; */
+"pcS-TO-HSF.normalTitle" = "Pulli AD tranzaktsiyasi";
+
+/* Class = "UIBarButtonItem"; title = "Search"; ObjectID = "pul-gY-97b"; */
+"pul-gY-97b.title" = "Qidirmoq";
+
+/* Class = "UILabel"; text = "3hr ago"; ObjectID = "pxS-gz-jZZ"; */
+"pxS-gz-jZZ.text" = "3 soat oldin";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "q3u-63-ct7"; */
+"q3u-63-ct7.text" = "ism";
+
+/* Class = "UILabel"; text = "Loreum ipsum is a demo writing Lor\neum ipsum"; ObjectID = "qkC-rE-5xX"; */
+"qkC-rE-5xX.text" = "Loreum ipsum is a demo writing Lor\neum ipsum";
+
+/* Class = "UIButton"; normalTitle = "Type"; ObjectID = "qpR-pa-Uqy"; */
+"qpR-pa-Uqy.normalTitle" = "Turi";
+
+/* Class = "UILabel"; text = "Pachka"; ObjectID = "qsi-nV-poZ"; */
+"qsi-nV-poZ.text" = "Pachka";
+
+/* Class = "UILabel"; text = "Woman t- shirt"; ObjectID = "r4w-IM-lSt"; */
+"r4w-IM-lSt.text" = "Woman t- shirt";
+
+/* Class = "UITextView"; text = "About me"; ObjectID = "r6I-lH-4VZ"; */
+"r6I-lH-4VZ.text" = "Men haqimda";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "rIK-h4-aLh"; */
+"rIK-h4-aLh.normalTitle" = "YOQ";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "rJI-L6-uhl"; */
+"rJI-L6-uhl.normalTitle" = "HA";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "rZR-Dz-qGe"; */
+"rZR-Dz-qGe.text" = "Boshlanish vaqti:";
+
+/* Class = "UIButton"; normalTitle = "Do you agree with this privacy policy?"; ObjectID = "rnQ-fZ-k5Y"; */
+"rnQ-fZ-k5Y.normalTitle" = "Siz ushbu maxfiylik siyosatiga qo'shilasizmi?";
+
+/* Class = "UILabel"; text = "Delhi"; ObjectID = "s82-LC-4rn"; */
+"s82-LC-4rn.text" = "Dehli";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "sIE-ac-SdC"; */
+"sIE-ac-SdC.normalTitle" = "YOQ";
+
+/* Class = "UIButton"; normalTitle = "Default camera"; ObjectID = "sM8-zv-2pn"; */
+"sM8-zv-2pn.normalTitle" = "Standart kamera";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "sM9-xh-wPE"; */
+"sM9-xh-wPE.normalTitle" = "Hammasini ko'rish";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "sU4-7O-TfQ"; */
+"sU4-7O-TfQ.normalTitle" = "YOQ";
+
+/* Class = "UIButton"; normalTitle = "Choose Category"; ObjectID = "sfm-LW-Wns"; */
+"sfm-LW-Wns.normalTitle" = "Toifani tanlang";
+
+/* Class = "UILabel"; text = "Getting this"; ObjectID = "snI-ld-IJK"; */
+"snI-ld-IJK.text" = "Buni olish";
+
+/* Class = "UILabel"; text = "PACHKA"; ObjectID = "t1m-te-6QE"; */
+"t1m-te-6QE.text" = "PACHKA";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "t5V-5W-pqW"; */
+"t5V-5W-pqW.normalTitle" = "Davom eting";
+
+/* Class = "UIButton"; normalTitle = "Price Type"; ObjectID = "t8u-4s-4A9"; */
+"t8u-4s-4A9.normalTitle" = "Narx turi";
+
+/* Class = "UILabel"; text = "1 week ago"; ObjectID = "tNY-6J-npN"; */
+"tNY-6J-npN.text" = "1 hafta oldin";
+
+/* Class = "UIButton"; normalTitle = "Make Offer"; ObjectID = "tQv-VD-PSk"; */
+"tQv-VD-PSk.normalTitle" = "Taklif qiling";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "tcw-ah-VHH"; */
+"tcw-ah-VHH.title" = "Qidirmoq";
+
+/* Class = "UILabel"; text = "Are you sure to delete this item?"; ObjectID = "tj3-NX-DOr"; */
+"tj3-NX-DOr.text" = "Ushbu elementni o'chirishga ishonchingiz komilmi?";
+
+/* Class = "UIButton"; normalTitle = "Sub Category"; ObjectID = "tng-BL-2Oe"; */
+"tng-BL-2Oe.normalTitle" = "Sub toifasi";
+
+/* Class = "UILabel"; text = "Listing"; ObjectID = "uGd-qu-diQ"; */
+"uGd-qu-diQ.text" = "E\'lonlarim";
+
+/* Class = "UILabel"; text = "Brand ( Optional )"; ObjectID = "uJn-q7-x21"; */
+"uJn-q7-x21.text" = "Tovar (ixtiyoriy)";
+
+/* Class = "UILabel"; text = "Shop Setting"; ObjectID = "uNB-8t-uWd"; */
+"uNB-8t-uWd.text" = "Do'kon sozlamalari";
+
+/* Class = "UITabBarItem"; title = "User"; ObjectID = "uOX-4x-rBg"; */
+"uOX-4x-rBg.title" = "Foydalanuvchi";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "uY8-aY-u4U"; */
+"uY8-aY-u4U.normalTitle" = "YOQ";
+
+/* Class = "UIButton"; normalTitle = "Pay with offline"; ObjectID = "vQL-gX-EpP"; */
+"vQL-gX-EpP.normalTitle" = "Oflayn rejimda to'lovni amalga oshiring";
+
+/* Class = "UILabel"; text = "Camera Settings"; ObjectID = "vT1-ye-6Fd"; */
+"vT1-ye-6Fd.text" = "Kamera sozlamalari";
+
+/* Class = "UIButton"; normalTitle = "Offered"; ObjectID = "vUf-tp-KSu"; */
+"vUf-tp-KSu.normalTitle" = "Taklif qilingan";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "vXp-4q-tZD"; */
+"vXp-4q-tZD.text" = "2";
+
+/* Class = "UILabel"; text = "$34.5"; ObjectID = "vac-OF-1pG"; */
+"vac-OF-1pG.text" = "$34.5";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "vbw-gk-owJ"; */
+"vbw-gk-owJ.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Make Offer For This Item"; ObjectID = "vhF-9F-ngT"; */
+"vhF-9F-ngT.text" = "Ushbu buyum uchun narx taklif qiling";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vy2-Ko-jNU"; */
+"vy2-Ko-jNU.text" = "Label";
+
+/* Class = "UILabel"; text = "Listing"; ObjectID = "wBU-Dy-m23"; */
+"wBU-Dy-m23.text" = "E\'lonlarim";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "wI9-Ac-Jj3"; */
+"wI9-Ac-Jj3.text" = "Boshlanish vaqti:";
+
+/* Class = "UILabel"; text = "PACHKA"; ObjectID = "wLB-6V-j3X"; */
+"wLB-6V-j3X.text" = "PACHKA";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "wWm-6I-7UD"; */
+"wWm-6I-7UD.normalTitle" = "Yuborish";
+
+/* Class = "UITextView"; text = "Address"; ObjectID = "wbn-4W-clV"; */
+"wbn-4W-clV.text" = "Manzil";
+
+/* Class = "UIButton"; normalTitle = "Promote"; ObjectID = "wpn-jD-cj6"; */
+"wpn-jD-cj6.normalTitle" = "Targ\'ib qilish";
+
+/* Class = "UIButton"; normalTitle = "Sub Category"; ObjectID = "wrQ-33-Fse"; */
+"wrQ-33-Fse.normalTitle" = "Sub toifasi";
+
+/* Class = "UILabel"; text = "1 week ago"; ObjectID = "wtN-c2-mRX"; */
+"wtN-c2-mRX.text" = "1 hafta oldin";
+
+/* Class = "UITextView"; text = "Lorem ipsum"; ObjectID = "wtl-bl-efP"; */
+"wtl-bl-efP.text" = "Lorem ipsum";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "wv0-pW-c9U"; */
+"wv0-pW-c9U.text" = "Boshlanish vaqti:";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "xON-rL-tvY"; */
+"xON-rL-tvY.normalTitle" = "HA";
+
+/* Class = "UITabBarItem"; title = "Message"; ObjectID = "xbe-Mw-LRg"; */
+"xbe-Mw-LRg.title" = "Xabar";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "xfh-nk-1Lg"; */
+"xfh-nk-1Lg.text" = "ism";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "xgW-fB-Ip9"; */
+"xgW-fB-Ip9.normalTitle" = "Ro'yxatdan o'tish";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "xhs-hs-4kN"; */
+"xhs-hs-4kN.text" = "Kimga";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "xlE-Bl-LJX"; */
+"xlE-Bl-LJX.text" = "ism";
+
+/* Class = "UILabel"; text = "Woman t- shirt"; ObjectID = "xmw-eM-aCw"; */
+"xmw-eM-aCw.text" = "Woman t- shirt";
+
+/* Class = "UIButton"; normalTitle = "Deal Option"; ObjectID = "xoV-2r-chZ"; */
+"xoV-2r-chZ.normalTitle" = "Kelishuv turi";
+
+/* Class = "UITextField"; placeholder = "Enter price"; ObjectID = "xpj-wD-31y"; */
+"xpj-wD-31y.placeholder" = "Narxni kiriting";
+
+/* Class = "UIButton"; normalTitle = "Offered"; ObjectID = "y1l-NC-afz"; */
+"y1l-NC-afz.normalTitle" = "Taklif qilingan";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ycH-jg-fKR"; */
+"ycH-jg-fKR.text" = "Label";
+
+/* Class = "UILabel"; text = "Image Cache Size"; ObjectID = "ynv-ep-0bs"; */
+"ynv-ep-0bs.text" = "Rasm keshining o\'lchami";
+
+/* Class = "UILabel"; text = "E-mail"; ObjectID = "z2Q-Xa-d2f"; */
+"z2Q-Xa-d2f.text" = "Elektron pochta";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "zwx-UW-OVe"; */
+"zwx-UW-OVe.text" = "Foydalanuvchi nomi";
+
+/* Class = "UIButton"; normalTitle = "NEW HERE? SIGN UP"; ObjectID = "Mvr-EQ-W9g"; */
+"Mvr-EQ-W9g.text" = "Bu yerda yangimisiz? Ro\'yxatdan o\'ting";
+
+/* Class = "UIButton"; normalTitle = "Already member ? Login"; ObjectID = "Frt-1Q-VIG"; */
+"Frt-1Q-VIG.text" = "Allaqachon a\'zo bo\'lganmisiz? Kirish";
+
+
+/* Class = "UILabel"; text = "Add Images *"; ObjectID = "uS6-ak-h9G"; */
+"uS6-ak-h9G.text" = "Rasmlarni qo'shish";
+
+/* Class = "UILabel"; text = "Listing Title *"; ObjectID = "J2B-5s-aRo"; */
+"J2B-5s-aRo.text" = "Ro'yxat nomi";
+
+/* Class = "UILabel"; text = "Category *"; ObjectID = "X8q-Wy-S9Y"; */
+"X8q-Wy-S9Y.text" = "Toifasi";
+
+/* Class = "UILabel"; text = "ehe-0M-i8t *"; ObjectID = "uNB-8t-uWd"; */
+"ehe-0M-i8t.text" = "Pastki toifasi";
+
+/* Class = "UILabel"; text = "Type *"; ObjectID = "yad-bS-TQw"; */
+"yad-bS-TQw.text" = "Turi";
+
+/* Class = "UILabel"; text = "Item Condition *"; ObjectID = "mxr-iV-W1e"; */
+"mxr-iV-W1e.text" = "Mahsulot sharti";
+
+/* Class = "UILabel"; text = "Price *"; ObjectID = "kHK-hn-pVk"; */
+"kHK-hn-pVk.text" = "Narx";
+
+
+/* Class = "UILabel"; text = "Description *"; ObjectID = "p0d-58-4ev"; */
+"p0d-58-4ev.text" = "Tavsif";
+
+
+/* Class = "UILabel"; text = "Item Condition *"; ObjectID = "K9H-qP-u3v"; */
+"K9H-qP-u3v.text" = "Bitim opsiyasi";

@@ -1,0 +1,6 @@
+framework module Pods_Pechka {
+  umbrella header "Pods-Pechka-umbrella.h"
+
+  export *
+  module * { export * }
+}
